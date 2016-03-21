@@ -1,0 +1,26 @@
+{
+  "name": "contribs",
+  "description": "Generate boilerplate open source contributing guidelines.",
+  "version": "0.0.0",
+  "author": "Nate Goldman <ungoldman@gmail.com> (http://ungoldman.com/)",
+  "bin": {
+    "contribs": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ungoldman/contribs/issues"
+  },
+  "homepage": "https://github.com/ungoldman/contribs#readme",
+  "keywords": [
+    "CONTRIBUTING.md",
+    "contribs",
+    "contributing",
+    "contributions",
+    "contributors"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungoldman/contribs.git"
+  }
+}
