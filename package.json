@@ -3,9 +3,7 @@
   "description": "Generate boilerplate open source contributing guidelines.",
   "version": "1.0.1",
   "author": "Nate Goldman <ungoldman@gmail.com> (http://ungoldman.com/)",
-  "bin": {
-    "contribs": "index.js"
-  },
+  "bin": "index.js",
   "bugs": {
     "url": "https://github.com/ungoldman/contribs/issues"
   },
