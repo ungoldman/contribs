@@ -1,6 +1,6 @@
 {
   "name": "contribs",
-  "description": "Generate boilerplate open source contributing guidelines.",
+  "description": "Generate contributing guidelines for a new project.",
   "version": "1.0.1",
   "author": "Nate Goldman <ungoldman@gmail.com> (http://ungoldman.com/)",
   "bin": "index.js",
