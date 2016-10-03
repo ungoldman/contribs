@@ -1,13 +1,15 @@
 # contribs
 
-> Generate contributing guidelines for a new project.
+Generate contributing guidelines for a new project.
 
 [![npm][npm-image]][npm-url]
 
 [npm-image]: https://img.shields.io/npm/v/contribs.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/contribs
 
-A tiny terminal program for creating [contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) for a new open source project.
+## About
+
+This is a tiny terminal program for creating [contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) for a new open source project.
 
 ## Install
 
@@ -38,7 +40,7 @@ On OS X you can also run `contribs | pbcopy` and you'll get a copy of the contri
 
 ## Credit
 
-The contents of this project's `CONTRIBUTING.md` file are drawn from the [OPEN Open Source Project](http://openopensource.org/), [jden](https://github.com/jden)'s [CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md) project, and the [Friends](https://github.com/moose-team/friends) and [WebTorrent.app](https://github.com/feross/webtorrent-app/blob/master/CONTRIBUTING.md) contributing guidelines.
+The contents of this project's `CONTRIBUTING.md` file are drawn from [OPEN Open Source Project](http://openopensource.org/), [jden](https://github.com/jden)'s [CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md), [Friends](https://github.com/moose-team/friends), [WebTorrent Desktop](https://github.com/feross/webtorrent-desktop/blob/master/CONTRIBUTING.md), and [shigeru](https://github.com/moonglum/shigeru/blob/master/CONTRIBUTING.md).
 
 ## Contributing
 
