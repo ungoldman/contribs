@@ -19,7 +19,7 @@
     "contributors",
     "guidelines"
   ],
-  "license": "ISC",
+  "license": "CC0-1.0",
   "main": "index.js",
   "repository": {
     "type": "git",
