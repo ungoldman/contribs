@@ -3,9 +3,14 @@
   "description": "Generate contributing guidelines for a new project.",
   "version": "1.1.0",
   "author": "Nate Goldman <ungoldman@gmail.com> (http://ungoldman.com/)",
-  "bin": "index.js",
+  "bin": {
+    "contribs": "index.js"
+  },
   "bugs": {
     "url": "https://github.com/ungoldman/contribs/issues"
+  },
+  "devDependencies": {
+    "standard": "^11.0.0"
   },
   "homepage": "https://github.com/ungoldman/contribs#readme",
   "keywords": [
@@ -24,5 +29,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ungoldman/contribs.git"
+  },
+  "scripts": {
+    "test": "standard"
   }
 }
