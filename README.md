@@ -50,4 +50,4 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 
 ## License
 
-[CC-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+[CC-1.0](LICENSE.md)
