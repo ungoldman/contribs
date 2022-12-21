@@ -9,9 +9,6 @@
   "bugs": {
     "url": "https://github.com/ungoldman/contribs/issues"
   },
-  "devDependencies": {
-    "standard": "^11.0.0"
-  },
   "homepage": "https://github.com/ungoldman/contribs#readme",
   "keywords": [
     "CONTRIBUTING.md",
