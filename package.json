@@ -28,6 +28,6 @@
     "url": "git+https://github.com/ungoldman/contribs.git"
   },
   "scripts": {
-    "test": "standard"
+    "test": "./index.test.sh"
   }
 }
