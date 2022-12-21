@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 
-var pkg = require('./package.json')
-var arg = process.argv[2]
+const pkg = require('./package.json')
+const arg = process.argv[2]
 
 function contribs () {
-  var fs = require('fs')
-  var path = require('path')
-  var file = path.join(__dirname, 'CONTRIBUTING.md')
+  const fs = require('fs')
+  const path = require('path')
+  const file = path.join(__dirname, 'CONTRIBUTING.md')
 
   fs.createReadStream(file).pipe(process.stdout)
 }
