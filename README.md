@@ -2,18 +2,12 @@
 
 Generate contributing guidelines for a new project.
 
-[![npm][1]][2]
-[![travis][3]][4]
-[![standard][5]][6]
-[![downloads][7]][2]
+[![npm][npm-image]][npm-url]
+[![downloads][downloads-image]][npm-url]
 
-[1]: https://img.shields.io/npm/v/contribs.svg?style=flat-square
-[2]: https://www.npmjs.com/package/contribs
-[3]: https://img.shields.io/travis/ungoldman/contribs/master.svg?style=flat-square
-[4]: https://travis-ci.org/ungoldman/contribs
-[5]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
-[6]: http://standardjs.com/
-[7]: https://img.shields.io/npm/dm/contribs.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/contribs.svg
+[npm-url]: https://www.npmjs.com/package/contribs
+[downloads-image]: https://img.shields.io/npm/dm/contribs.svg
 
 ## About
 
@@ -39,10 +33,6 @@ npx contribs > CONTRIBUTING.md
 You can achieve the same effect as above by copying a random `CONTRIBUTING.md` file from the internet into your project manually (except you can fork and improve this one).
 
 On OS X you can also run `npx contribs | pbcopy` and you'll get a copy of the contributing guidelines ready to paste anywhere.
-
-## Credit
-
-The contents of this project's `CONTRIBUTING.md` file are drawn from [OPEN Open Source Project](http://openopensource.org/), [jden](https://github.com/jden)'s [CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md), [Friends](https://github.com/moose-team/friends), [WebTorrent Desktop](https://github.com/feross/webtorrent-desktop/blob/master/CONTRIBUTING.md), and [shigeru](https://github.com/moonglum/shigeru/blob/master/CONTRIBUTING.md).
 
 ## Contributing
 
